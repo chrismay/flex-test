@@ -1,0 +1,2 @@
+#!/bin/bash
+/opt/flex_sdk_3/bin/mxmlc -load-config flex-config.xml ./src/uk/ac/warwick/test/Greeter_mx.mxml -output ./bin/Greeter_mx.swf
